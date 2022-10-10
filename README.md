@@ -15,4 +15,4 @@
 - Improved the performance by  using Natural Language Processing **NLP** methods and achieved the f1-score of 0.73 against the test dataset. 
 
 ---
-### [Notebook]('https://github.com/Sheriffwoody31/Twitter-Sentiment-Analysis/blob/main/Model.ipynb')
+### [Notebook](https://github.com/Sheriffwoody31/Twitter-Sentiment-Analysis/blob/main/Model.ipynb)
